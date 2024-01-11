@@ -1,0 +1,4 @@
+# .env file
+OPENAI_API_KEY="sk-xxxxxxxxxxx_REPLACE_WITH_YOUR_KEY_xxxxxxxxxxxxxx"
+MIC_DEVICE='default'
+
